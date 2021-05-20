@@ -1,5 +1,10 @@
 # Data-Analysis-Projects_Hong-Kong-Airbnb-Data-Analysis
 
+If you cannot access 'airbnb_hk_data_analysis.ipynb', Please find below the link for more details:
+
+https://nbviewer.jupyter.org/github/paulcheng0830/Data-Analysis-Projects_Hong-Kong-Airbnb-Data-Analysis/blob/main/airbnb_hk_data_analysis.ipynb
+
+
 Introduction
 
 Airbnb is one of the well-known online hospitality service platform around the world, which provide the connection between travelers and homeowners. This project aims to analyze Hong Kong Airbnb phenomena and visualization the data to create insights.
